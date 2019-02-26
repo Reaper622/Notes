@@ -17,6 +17,7 @@
 ## Vue
 
 - [Vue学习手记](https://github.com/Reaper622/Notes/blob/master/Vue/Vue%E6%89%8B%E8%AE%B0.md)
+- [浅析Vue中$nextTick机制](https://github.com/Reaper622/Notes/blob/master/Vue/%E6%B5%85%E6%9E%90Vue%20%E4%B8%AD%20%24nextTick%20%E6%9C%BA%E5%88%B6.md)
 
 ## Ajax
 
