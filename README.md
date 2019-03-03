@@ -32,3 +32,4 @@
 ## 校对的文章
 
 - [如何学习CSS](https://juejin.im/post/5c74daaaf265da2d9d1cb774)
+- [网速敏感的视频延迟加载方案](https://juejin.im/post/5c7b84356fb9a049ab0e5630)
