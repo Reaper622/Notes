@@ -29,6 +29,10 @@
 - [基础问题](https://github.com/Reaper622/Notes/blob/master/Front-end/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E9%97%AE%E9%A2%98.md)
 - [说说大异步](https://github.com/Reaper622/Notes/blob/master/Front-end/%E8%AF%B4%E8%AF%B4%E5%A4%A7%E5%BC%82%E6%AD%A5.md)
 
+## 翻译的文章
+
+- [选择 Grid 还是 Flex？](https://juejin.im/post/5c7ce781e51d4514913c5bc4)
+
 ## 校对的文章
 
 - [如何学习CSS](https://juejin.im/post/5c74daaaf265da2d9d1cb774)
