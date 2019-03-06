@@ -14,6 +14,10 @@
 - [Javascript函数参数求值——Thunk函数](https://github.com/Reaper622/Notes/blob/master/JavaScript/Javascript%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E6%B1%82%E5%80%BC%E2%80%94%E2%80%94Thunk%E5%87%BD%E6%95%B0.md)
 - ["This" is For JavaScript](https://github.com/Reaper622/Notes/blob/master/JavaScript/This%20is%20For%20JavaScript.md)
 
+## React
+
+- [通俗易懂地了解Redux](https://github.com/Reaper622/Notes/blob/master/React/%E9%80%9A%E4%BF%97%E6%98%93%E6%87%82%E7%9A%84%E4%BA%86%E8%A7%A3Redux.md)
+
 ## Vue
 
 - [Vue学习手记](https://github.com/Reaper622/Notes/blob/master/Vue/Vue%E6%89%8B%E8%AE%B0.md)
