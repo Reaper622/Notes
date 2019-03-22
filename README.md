@@ -36,6 +36,7 @@
 ## 翻译的文章
 
 - [选择 Grid 还是 Flex？](https://juejin.im/post/5c7ce781e51d4514913c5bc4)
+- [MDN console.timelog()](https://developer.mozilla.org/zh-CN/docs/Web/API/Console/timeLog)
 
 ## 校对的文章
 
