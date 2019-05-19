@@ -39,6 +39,7 @@
 
 - [选择 Grid 还是 Flex？](https://juejin.im/post/5c7ce781e51d4514913c5bc4)
 - [MDN console.timelog()](https://developer.mozilla.org/zh-CN/docs/Web/API/Console/timeLog)
+- [理解 Vue 中的 Mixin](https://github.com/Reaper622/Notes-Blogs/blob/master/Vue/%E7%90%86%E8%A7%A3Vue.js%E4%B8%AD%E7%9A%84mixinsmd.md)
 
 ## 校对的文章
 
