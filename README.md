@@ -6,13 +6,16 @@
 
 为解决问题与分享知识而存。
 
-
+ 现在可访问我的在线博客[Reaper Lee 的个人博客](http://reaperlee.cn/) 进行阅读，感谢支持，友链当前可申请!
 
 ## JavaScript
 
 - [JavaScript 有关提升](https://github.com/Reaper622/Notes/blob/master/JavaScript/JavaScript%20%E6%9C%89%E5%85%B3%E6%8F%90%E5%8D%87.md)
 - [Javascript函数参数求值——Thunk函数](https://github.com/Reaper622/Notes/blob/master/JavaScript/Javascript%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E6%B1%82%E5%80%BC%E2%80%94%E2%80%94Thunk%E5%87%BD%E6%95%B0.md)
 - ["This" is For JavaScript](https://github.com/Reaper622/Notes/blob/master/JavaScript/This%20is%20For%20JavaScript.md)
+- [JavaScript 设计模式解析【1】——创建型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript 设计模式解析[1]——创建型设计模式.md)
+- [JavaScript 设计模式解析【2】——结构型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript 设计模式解析[2]——结构型设计模式.md)
+- [JavaScript 设计模式解析【3】——行为型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript 设计模式解析[3]——行为型设计模式.md)
 
 ## React
 
