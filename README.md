@@ -13,9 +13,9 @@
 - [JavaScript 有关提升](https://github.com/Reaper622/Notes/blob/master/JavaScript/JavaScript%20%E6%9C%89%E5%85%B3%E6%8F%90%E5%8D%87.md)
 - [Javascript函数参数求值——Thunk函数](https://github.com/Reaper622/Notes/blob/master/JavaScript/Javascript%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E6%B1%82%E5%80%BC%E2%80%94%E2%80%94Thunk%E5%87%BD%E6%95%B0.md)
 - ["This" is For JavaScript](https://github.com/Reaper622/Notes/blob/master/JavaScript/This%20is%20For%20JavaScript.md)
-- [JavaScript 设计模式解析【1】——创建型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript 设计模式解析[1]——创建型设计模式.md)
-- [JavaScript 设计模式解析【2】——结构型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript 设计模式解析[2]——结构型设计模式.md)
-- [JavaScript 设计模式解析【3】——行为型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript 设计模式解析[3]——行为型设计模式.md)
+- [JavaScript 设计模式解析【1】——创建型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90%E3%80%901%E3%80%91%E2%80%94%E2%80%94%E5%88%9B%E5%BB%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+- [JavaScript 设计模式解析【2】——结构型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90%E3%80%902%E3%80%91%E2%80%94%E2%80%94%E7%BB%93%E6%9E%84%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
+- [JavaScript 设计模式解析【3】——行为型设计模式](https://github.com/Reaper622/Notes-Blogs/blob/master/JavaScript/JavaScript%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E8%A7%A3%E6%9E%90%E3%80%903%E3%80%91%E2%80%94%E2%80%94%E8%A1%8C%E4%B8%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md)
 
 ## React
 
