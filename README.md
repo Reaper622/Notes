@@ -39,6 +39,10 @@
 - [说说大异步](https://github.com/Reaper622/Notes/blob/master/Front-end/%E8%AF%B4%E8%AF%B4%E5%A4%A7%E5%BC%82%E6%AD%A5.md)
 - [揭秘前端存储](https://github.com/Reaper622/Notes-Blogs/blob/master/Front-end/%E6%8F%AD%E7%A7%98%E5%89%8D%E7%AB%AF%E5%AD%98%E5%82%A8.md)
 
+## Network
+
+- [Nginx初探](https://github.com/Reaper622/Notes-Blogs/blob/master/Network/Nginx 初探.md)
+
 ## 翻译的文章
 
 - [选择 Grid 还是 Flex？](https://juejin.im/post/5c7ce781e51d4514913c5bc4)
