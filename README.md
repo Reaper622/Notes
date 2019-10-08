@@ -41,7 +41,7 @@
 
 ## Network
 
-- [Nginx初探](https://github.com/Reaper622/Notes-Blogs/blob/master/Network/Nginx 初探.md)
+- [Nginx 初探](https://github.com/Reaper622/Notes-Blogs/blob/master/Network/Nginx%20初探.md)
 
 ## 翻译的文章
 
