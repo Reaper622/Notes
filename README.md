@@ -7,6 +7,10 @@
 为解决问题与分享知识而存。
 
  现在可访问我的在线博客[Reaper Lee 的个人博客](http://reaperlee.cn/) 进行阅读，感谢支持，友链当前可申请!
+ 获取更好的阅读体验！在线阅读地址：
+ [数据结构和算法](https://reaperlee.cn/ds-al/)
+ [设计模式](https://reaperlee.cn/dp/)
+
 
 ## JavaScript
 
@@ -23,6 +27,7 @@
 - [通俗易懂地了解Redux](https://github.com/Reaper622/Notes/blob/master/React/%E9%80%9A%E4%BF%97%E6%98%93%E6%87%82%E7%9A%84%E4%BA%86%E8%A7%A3Redux.md)
 - [React Hooks](https://github.com/Reaper622/Notes-Blogs/blob/master/React/React%20Hooks.md)
 - [解析 React diff 算法](https://github.com/Reaper622/Notes-Blogs/blob/master/React/%E8%A7%A3%E6%9E%90React%20Diff%20%E7%AE%97%E6%B3%95.md)
+- [React调度](https://github.com/Reaper622/Notes-Blogs/blob/master/React/React%20%E8%B0%83%E5%BA%A6.md)
 
 ## Vue
 
